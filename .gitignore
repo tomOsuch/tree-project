@@ -2,6 +2,7 @@
 target/
 
 #  IDE files
+.vscode/
 .idea/
 *.iml
 *.ipr
